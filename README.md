@@ -1,0 +1,2 @@
+# Analysez-des-indicateurs-de-l-galit-femme-homme-avec-Knime
+Ce projet propose une analyse des indicateurs de l’égalité femmes-hommes en entreprise à l’aide de l’outil KNIME. Il vise à illustrer comment exploiter et visualiser les données pour :  évaluer l’index égalité professionnelle,  identifier les écarts éventuels,  fournir des insights utiles pour améliorer la politique RH et la marque employeur.
